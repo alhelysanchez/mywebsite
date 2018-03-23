@@ -60,3 +60,5 @@ typings/
 # Ignore Mac OS Stuff
 .DS_Store
 .AppleDouble
+
+#add
